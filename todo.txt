@@ -1,0 +1,5 @@
+features will add later
+1. add icons/image as per weather like clouds, rains, clear sky, winter etc
+2. will some animation to weather image shake/blink etc
+3. weather for 24 hours, next week, last week
+4. search option where you can get weather info by city name, country name
